@@ -1,3 +1,5 @@
+![5](https://github.com/user-attachments/assets/c1a96ef4-5356-4570-8f76-ed20ee332248)
+
 <h1 align="center">Hi 👋, I'm Venkatram Valluri</h1>
 <h3 align="center">A passionate developer from India seeking to leverage my expertise in full-stack development with machine learning and data-driven problem-solving to create innovative and impactful solutions.</h3>
 
