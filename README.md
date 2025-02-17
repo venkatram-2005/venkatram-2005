@@ -16,13 +16,13 @@
       </td>
       <td>
         <ul>
-          <li>🔭 I’m currently working on <strong>Coding Statistics Dashboard</strong></li>
+          <li>🔭 I’m currently working on <strong>JobSphere: An AI Powered Job Portal</strong></li>
           <li>🌱 I’m currently learning <strong>MERN</strong></li>
           <li>👯 I’m looking to collaborate on <strong>Virtual Trail Room Project</strong></li>
           <li>👨‍💻 All of my projects are available at <a href="https://github.com/venkatram-2005">GitHub Profile</a></li>
           <li>💬 Ask me about <strong>JDBC, JSP</strong></li>
           <li>📫 How to reach me: <strong>vallurivenkatram@gmail.com</strong></li>
-          <li>⚡ Fun fact: <em>Did you know? I once debugged a 1000-line code error for more than 3 hours for fixing just 5 characters.</em></li>
+          <li>⚡ Fun fact: <em>Did you know? I once debugged a 4000-line code error for more than 3 hours for fixing just 2 characters.</em></li>
         </ul>
       </td>
     </tr>
